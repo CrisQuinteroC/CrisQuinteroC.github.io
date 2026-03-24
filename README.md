@@ -8,6 +8,7 @@ Dentro de la carpeta zip se encuentra una carpeta llamada inventariomeca, en ell
 Ya que tengas todo descargado, dirigete hacia C:\xampp\htdocs, dentro de la carpeta htdocs vas a dejar la carpeta inventariomeca anteriormente descargada.
 
 Para la base de datos debe de entrar a su navegador y dirigirse a http://localhost/phpmyadmin/index.php?route=/server/databases, donde le apareceran en la pantalla las bases de datos del sistema, en el apartado 'create database' debe llenar el espacio 'database name' con el nombre 'inventariomeca', 
+
 <img width="524" height="168" alt="image" src="https://github.com/user-attachments/assets/73f3ef2a-07d3-4d2d-8b82-98a436d3068a" />
 
 Despues de crear la base de datos se abrira esta misma y en el menu de la parte superior debe seleccionar el boton que dice import:
