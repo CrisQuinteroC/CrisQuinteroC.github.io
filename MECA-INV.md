@@ -1,3 +1,4 @@
 layout: page
 title: "Laboratorios Mecatronica"
-permalink: /login.php
+permalink: /index.html
+
