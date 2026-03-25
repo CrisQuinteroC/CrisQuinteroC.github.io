@@ -3,6 +3,8 @@
 ## Para hacer funcionar la pagina localmente, necesitas descargar e instalar XAMPP, utilzando el siguente link: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe
 Despues de instalarlo, debes activar las opciones de Apache y MySQL
 
+Para descargar la carpeta zip de click en el boton verde 'code / codigo', despues a de click a donde  dice 'download zip / descargar zip'
+
 Dentro de la carpeta zip se encuentra una carpeta llamada inventariomeca, en ella estan todos los archivos necesarios para hacer funcionar la pagina más el script SQL para la base de datos.
 
 Ya que tengas todo descargado, dirigete hacia C:\xampp\htdocs, dentro de la carpeta htdocs vas a dejar la carpeta inventariomeca anteriormente descargada.
